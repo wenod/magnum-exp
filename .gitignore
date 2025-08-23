@@ -1,0 +1,26 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archive files (keep releases in GitHub Releases instead)
+*.dmg
+*.exe
+*.msi
+*.deb
+*.rpm
+*.AppImage
+*.tar.gz
+*.zip
+
+# But keep placeholder directories
+!releases/.gitkeep
