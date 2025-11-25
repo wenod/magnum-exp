@@ -16,6 +16,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.88.101] - 2025-11-25
+
+This release includes:
+- Professional auto-scroll & focus behavior
+- Context-aware streaming with embedded final responses
+- Persistent live status in task groups during streaming
+
+---
+
 ## [0.88.100] - 2025-11-20
 
 This release includes:
